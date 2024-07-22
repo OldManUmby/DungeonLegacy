@@ -65,7 +65,7 @@ theme:
     #- navigation.prune
     - navigation.top
     - navigation.footer
-    #- navigation.indexes
+    - navigation.indexes
     - toc.integrate
     - toc.follow
     - search.suggest
@@ -165,7 +165,7 @@ markdown_extensions:
 # not_in_nav: |
 #  /tutorials/**/*.md
 
-# MENU TREE
+# MENU TREE (Sample Below)
 #nav:
 #  - Home: index.md
 #  - Blog:
