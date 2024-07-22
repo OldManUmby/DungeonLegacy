@@ -1,14 +1,14 @@
 # Special instructions go here.
 
 # PROJECT
-site_name: Material for MkDocs Template Demo
+site_name: Dungeon Legacy
 site_author: B.A. Umberger
-site_url: https://oldmanumby.github.io/material-for-mkdocs-template
-site_description: An demo GitHub template for Material for MkDocs Insiders Edition complete with GH Pages.
+site_url: https://oldmanumby.github.io/DungeonLegacy
+site_description: Dungeon Legacy is a lite OSR-style fantasy tabletop roleplaying game.
 
 # REPOSITORY
-repo_name: oldmanumby/material-for-mkdocs-template
-repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
+repo_name: OldManUmby/DungeonLegacy
+repo_url: https://github.com/OldManUmby/DungeonLegacy
 edit_uri: edit/main/docs/
 
 # Copyright
