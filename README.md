@@ -1,4 +1,4 @@
-![Dungeon Legacy Logo](/docs/project/! branding/DLRPG.Logo.FC.3946x1024@300dpi.png)
+![Dungeon Legacy Logo](DLRPG.Logo.png)
 
 # Dungeon Lagacy
 
