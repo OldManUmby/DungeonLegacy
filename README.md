@@ -1,4 +1,4 @@
-![Dungeon Legacy Logo](/Users/oldmanumby/Documents/Projects/Dungeon Legacy [git]/docs/project/! branding/DLRPG.Logo.FC.3946x1024@300dpi.png)
+![Dungeon Legacy Logo](/docs/project/! branding/DLRPG.Logo.FC.3946x1024@300dpi.png)
 
 # Dungeon Lagacy
 
