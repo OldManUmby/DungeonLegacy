@@ -1,3 +1,5 @@
+![](/Users/oldmanumby/Documents/Projects/Dungeon Legacy [git]/docs/project/! branding/DLRPG.Logo.FC.3946x1024@300dpi.png)
+
 # Dungeon Lagacy
 
 >The Dungeon Legacy RPG is currently in development. You can follow this project through the *Changelog* file.
