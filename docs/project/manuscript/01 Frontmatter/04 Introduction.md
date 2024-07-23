@@ -36,7 +36,7 @@ There are several modes of gameplay available to players.
 
 **_Coop Play_** is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
 
-**_Solo Play_** is where a single player also acts as a gamemaster using the _Dungeon Legacy Solo Ruleset_.
+**_Solo Play_** is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
 
 ## Materials
 
