@@ -26,11 +26,11 @@ Although it's the gamemaster's job to create, arbitrate, narrate, and run the ad
 
 There are several modes of play available to players.
 
-**_Group Play_** is the typical method of gameplay consisting of at least one player and a gamemaster, although many more players are common. This is the default mode of play.
+***Group Play*** is the typical method of gameplay consisting of at least one player and a gamemaster, although many more players are common. This is the default mode of play.
 
-**_Coop Play_** is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
+***Coop Play*** is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
 
-**_Solo Play_** is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
+***Solo Play*** is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
 
 ## Adventures
 
