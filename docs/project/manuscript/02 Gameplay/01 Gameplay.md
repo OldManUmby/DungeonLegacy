@@ -11,8 +11,9 @@
 As the game progresses, each player and the gamemaster get to take action on their turn, with only a few exceptions, being a `condition` that prevents a character from taking action.
 
 There are several types of turns.
-- ***Moments.*** Turns used during fast-paced segments, like combat or chases. Moments are typically 1-6 seconds in length.
-- ***Scenes.*** Turns used during easy-paced segments, like adventuring and exploring.
+
+* ***Moments.*** Turns used during fast-paced segments, like combat or chases. Moments are typically 1-6 seconds in length.
+ * ***Scenes.*** Turns used during easy-paced segments, like adventuring and exploring.
 
 The gamemaster may advance to any type of turn as needed, substituting **Minutes** for **Hours**, **Days**, or even **Months** should the adventure require it.
 
