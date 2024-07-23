@@ -18,6 +18,8 @@ The players direct the actions of the heroes - a.k.a. player characters (PC or P
 
 Although it's the gamemaster's job to create, arbitrate, narrate, and run the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is continually generated- moment to moment - from the minds of the gamemaster, the players, and the results of each dice roll.
 
+>***Gamemaster's Discretion.*** Simply put, the gamemaster has the final say over ANY rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a session zero can be used this way. Nuff Said.
+
 >***Player Safety.*** A gamemaster is usually more experienced and holds all the power, which comes with great responsibility. However, newer players will face dangers and unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding with the game; a session zero can be used this way. Nuff Said.
 
 ## Adventures
@@ -58,5 +60,3 @@ These customary conventions are practiced throughout the ruleset.
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction; a minimum of 1 always applies.
 
 ***Terminology.*** Terms have a specific usage and are defined throughout this ruleset. Where a term is used but not defined, browse the Index in the back of the material for its source. Popular terms often have a shortened form; the abbreviation will appear in parentheses where the term first appeared in the material.
-
->***Gamemaster's Discretion.*** Simply put, the gamemaster has the final say over ANY rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a session zero can be used this way. Nuff Said.
