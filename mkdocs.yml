@@ -19,8 +19,8 @@ theme:
   name: material
   language: en
   custom_dir: overrides
-  logo: assets/branding/logo_wht.svg
-  favicon: assets/branding/favicon_wht.png
+  logo: assets/branding/icon.svg
+  favicon: assets/branding/favicon.png
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil 
