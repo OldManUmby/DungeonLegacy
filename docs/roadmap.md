@@ -22,7 +22,7 @@ The following is a list of the various apps and tools of the trade used to creat
 ## Jul 23, 2024
 
 - [x] Create Introduction.
-- [ ] Create Rules.
+- [ ] Create Gameplay.
 - [ ] Create Combat.
 - [ ] Create Origins.
 - [ ] Create Ancestry.
