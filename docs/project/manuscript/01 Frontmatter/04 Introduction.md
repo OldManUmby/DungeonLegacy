@@ -28,6 +28,16 @@ The ***Adventures*** are governed and often created by the gamemaster. Short adv
 
 The ***Campaigns*** are a series of adventures usually connected by an overarching plot or hook that moves the player characters towards an overall objective and often a final confrontation. Depending upon the players’ desires and the gamemaster's plans, campaigns can be played for months or years, being paused and revisited many times. Campaigns could also be run and developed by multiple gamemasters involving generations of characters.
 
+## Play Modes
+
+There are several modes of gameplay available to players.
+
+**_Group Play_** is the typical method of gameplay consisting of at least one player and a gamemaster, although many more players are common. This is the default mode of play.
+
+**_Coop Play_** is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
+
+**_Solo Play_** is where a single player also acts as a gamemaster using the _Dungeon Legacy Solo Ruleset_.
+
 ## Materials
 
 A few supplies are needed to use this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats; see `Appendix XX` for various game aids and sheets. Also, the playgroup will need gaming dice, ideally a set for each person.
