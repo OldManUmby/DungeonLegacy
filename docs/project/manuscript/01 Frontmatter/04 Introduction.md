@@ -14,7 +14,7 @@ The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed 
 
 The ***Players*** direct the actions of the **heroes** - a.k.a. player characters (PC or PCs), the protagonists trying to survive and thrive during the adventures.
 
-The ***Gamemaster (GM)*** directs the actions of the **villains** - a.k.a. non-player characters (NPC or NPCs) - the antagonists trying to undermine the heroes; this includes all beasts, bosses, and powers-that-be. It is the GM's sole responsibility to create an oversee the adventures.
+The ***Gamemaster (GM)*** directs the actions of the **villains** - a.k.a. non-player characters (NPC or NPCs) - the antagonists trying to undermine the heroes; this includes all beasts, bosses, and powers-that-be. It is also the GM's responsibility to create and oversee the adventures.
 
 >***Player Safety.*** A gamemaster is usually more experienced and holds all the power, which comes with great responsibility. However, newer players will face dangers and unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding with the game; a session zero can be used this way. Nuff Said.
 
