@@ -22,12 +22,6 @@ Although it's the gamemaster's job to create, arbitrate, narrate, and run the ad
 
 >***Gamemaster's Discretion.*** Simply put, the gamemaster has the final say over ANY rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a session zero can be used this way. Nuff Said.
 
-## Adventures
-
-The ***Adventures*** are governed and often created by the gamemaster. Short adventures, referred to as one-shot or side quests, can take hours or days to play, spanning multiple sessions, while longer adventures can last for weeks or months. A traditional adventure is a self-contained quest with a goal but can also be episodical, with many scenarios. Adventures can cover various locations, including countless worlds, planes, dimensions, and timelines, each setting offering unique challenges. Aside from being fun to play, adventures drive player character development; as you add experience to the character's record sheets, they become better at what they do.
-
-The ***Campaigns*** are a series of adventures usually connected by an overarching plot or hook that moves the player characters towards an overall objective and often a final confrontation. Depending upon the players’ desires and the gamemaster's plans, campaigns can be played for months or years, being paused and revisited many times. Campaigns could also be run and developed by multiple gamemasters involving generations of characters.
-
 ## Modes
 
 There are several modes of gameplay available to players.
@@ -37,6 +31,12 @@ There are several modes of gameplay available to players.
 **_Coop Play_** is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
 
 **_Solo Play_** is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
+
+## Adventures
+
+The ***Adventures*** are governed and often created by the gamemaster. Short adventures, referred to as one-shot or side quests, can take hours or days to play, spanning multiple sessions, while longer adventures can last for weeks or months. A traditional adventure is a self-contained quest with a goal but can also be episodical, with many scenarios. Adventures can cover various locations, including countless worlds, planes, dimensions, and timelines, each setting offering unique challenges. Aside from being fun to play, adventures drive player character development; as you add experience to the character's record sheets, they become better at what they do.
+
+The ***Campaigns*** are a series of adventures usually connected by an overarching plot or hook that moves the player characters towards an overall objective and often a final confrontation. Depending upon the players’ desires and the gamemaster's plans, campaigns can be played for months or years, being paused and revisited many times. Campaigns could also be run and developed by multiple gamemasters involving generations of characters.
 
 ## Materials
 
