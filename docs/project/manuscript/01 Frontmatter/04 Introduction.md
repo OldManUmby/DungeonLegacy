@@ -56,6 +56,8 @@ Typically, disadvantage is granted to a character when <!--add copy here-->.
 
 These customary conventions are practiced throughout the ruleset.
 
+***Pronoun Usage.*** The pronoun he/him/his is sometimes used in the material. This is not a challenge to anyone's gender or social standing but rather a grammatical reference.
+
 ***Specific Beats General.*** You may find aspects of the rules that break or contradict other elements. When a contradiction occurs, specific rules often beat general rules; however, the gamemaster will arbitrate as needed.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide any number, you will always round down, no matter the fraction; a minimum of 1 always applies.
