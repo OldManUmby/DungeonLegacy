@@ -16,11 +16,11 @@ Over the years, these games have evolved into the digital realm and are sometime
 
 The players direct the actions of the heroes - a.k.a. player characters (PC or PCs), the protagonists trying to survive and thrive during the adventures. However, one player serves as the gamemaster (GM), whose sole job is to create and oversee the adventures, plus narrate the actions of the villains - a.k.a. non-player characters (NPC or NPCs) - the antagonists trying to undermind the heroes, this includes all beasts, bosses, and powers-that-be.
 
+>***Player Safety.*** A gamemaster is usually more experienced and holds all the power, which comes with great responsibility. However, newer players will face dangers and unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding with the game; a session zero can be used this way. Nuff Said.
+
 Although it's the gamemaster's job to create, arbitrate, narrate, and run the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is continually generated- moment to moment - from the minds of the gamemaster, the players, and the results of each dice roll.
 
 >***Gamemaster's Discretion.*** Simply put, the gamemaster has the final say over ANY rule, decision, or situation. If the GM wishes to pass judgment, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a session zero can be used this way. Nuff Said.
-
->***Player Safety.*** A gamemaster is usually more experienced and holds all the power, which comes with great responsibility. However, newer players will face dangers and unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding with the game; a session zero can be used this way. Nuff Said.
 
 ## Adventures
 
