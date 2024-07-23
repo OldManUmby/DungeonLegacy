@@ -14,7 +14,7 @@ There are several types of turns.
 - ***Moments.*** Turns used during fast-paced segments, like combat or chases. Moments are typically 1-6 seconds in length.
 - ***Scenes.*** Turns used during easy-paced segments, like adventuring and exploring.
 
-The gamemaster may advance to any type of turn as needed, substituting **Minutes** for **Hours**, **Days** or even **Months** should the adventure require it.
+The gamemaster may advance to any type of turn as needed, substituting **Minutes** for **Hours**, **Days**, or even **Months** should the adventure require it.
 
 ## Checks
 
