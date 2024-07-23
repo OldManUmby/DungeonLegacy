@@ -1,6 +1,6 @@
 # Home
 
-![Dungeon Legacy Logo](manuscript/_assets/DLRPG.Logo.FC.3700x800@72dpi.png)
+![Dungeon Legacy Logo](project/manuscript/_assets/DLRPG.Logo.FC.3700x800@72dpi.png)
 
 >The Dungeon Legacy RPG is currently in development. You can follow this project through the *Changelog* file.
 
