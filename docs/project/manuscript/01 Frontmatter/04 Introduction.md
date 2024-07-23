@@ -24,7 +24,7 @@ Although it's the gamemaster's job to create, arbitrate, narrate, and run the ad
 
 ## Modes
 
-There are several modes of gameplay available to players.
+There are several modes of play available to players.
 
 **_Group Play_** is the typical method of gameplay consisting of at least one player and a gamemaster, although many more players are common. This is the default mode of play.
 
