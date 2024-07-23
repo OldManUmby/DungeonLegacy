@@ -1,3 +1,3 @@
 # Weapons
 
-<!--add copy here-->
+`Work In Progress`

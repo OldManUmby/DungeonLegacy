@@ -1,3 +1,3 @@
 # Supplies
 
-<!--add copy here-->
+`Work In Progress`

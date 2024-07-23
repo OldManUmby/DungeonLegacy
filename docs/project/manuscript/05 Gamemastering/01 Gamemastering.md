@@ -1,11 +1,11 @@
 # Gamemastering
 
-<!--add copy here-->
+`Work In Progress`
 
 ## Optional Rules
 
-<!--add copy here-->
+`Work In Progress`
 
 ### Corruption
 
-<!--add copy here-->
+`Work In Progress`
