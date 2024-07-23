@@ -2,4 +2,4 @@
 
 ## Jul 22, 2024
 
-* Project creation.
+* Initial project folder and file framework created.
