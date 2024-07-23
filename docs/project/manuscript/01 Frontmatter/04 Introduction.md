@@ -28,7 +28,7 @@ The ***Adventures*** are governed and often created by the gamemaster. Short adv
 
 The ***Campaigns*** are a series of adventures usually connected by an overarching plot or hook that moves the player characters towards an overall objective and often a final confrontation. Depending upon the players’ desires and the gamemaster's plans, campaigns can be played for months or years, being paused and revisited many times. Campaigns could also be run and developed by multiple gamemasters involving generations of characters.
 
-## Play Modes
+## Modes
 
 There are several modes of gameplay available to players.
 
