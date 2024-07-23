@@ -32,7 +32,7 @@ The ***Campaigns*** are a series of adventures usually connected by an overarchi
 
 A few supplies are needed to use this ruleset; these items can be physical, digital, or combined. Typically, a playgroup will draw maps, take notes, and track their character's stats; see `Appendix XX` for various game aids and sheets. Also, the playgroup will need gaming dice, ideally a set for each person.
 
-### The Dice
+### Gaming Dice
 
 This ruleset uses gaming dice to validate a character’s actions during gameplay. A handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100).
 
