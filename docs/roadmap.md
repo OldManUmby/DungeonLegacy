@@ -18,9 +18,6 @@ The following is a list of the various apps and tools of the trade used to creat
 Work in Progress
 🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️
 
-- [ ] Upcoming
-- [x] Complete
-
 ⏳ = In-Progress
 
 ### Jul 22, 2024
