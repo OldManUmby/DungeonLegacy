@@ -13,21 +13,33 @@ The following is a list of the various apps and tools of the trade used to creat
 * ***[Affinity Publisher](https://affinity.serif.com/en-us/publisher/).*** Used to create the publication files for *Dungeon Legacy*.
 * ***[Adobe Acrobat](https://www.adobe.com/acrobat).*** Used to create *Dungeon Legacy* character forms.
 
- ⏳ = Indicates work in progress.
+## Beta Core Features
 
-## Jul 22, 2024
+Work in Progress
+🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️
+
+- [ ] Upcoming
+- [x] Complete
+
+⏳ = In-Progress
+
+### Jul 22, 2024
 
 - [x] Create GitHub Repo and Pages
 - [x] Create the initial project folders and file framework
 - [x] Create the Roadmap file
 
-## Jul 23, 2024
+### Jul 23, 2024
 
 - [x] Create Introduction
 - [ ] Create Gameplay
 	- [x] Scenes & Turns
 	- [ ] Action Checks ⏳
+	- [ ] Distances
 - [ ] Create Combat
+	- [ ] Initiative
+	- [ ] Damage
+	- [ ] Healing
 - [ ] Create Origins
 - [ ] Create Ancestry
 - [ ] Create Lineages
