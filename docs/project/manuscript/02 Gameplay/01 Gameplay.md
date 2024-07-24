@@ -14,11 +14,11 @@ Scenes can take minutes, hours, days, weeks, or months to complete, as determine
 
 ## Turns
 
-Once the gamemaster sets the scene, it may be necessary to partition it and give everyone a turn. During a turn, a character may perform various actions, an exception being any `condition` that prevents a character from acting. During combat, each turn takes approximately 6 seconds of in-game time to complete. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
+Once the gamemaster sets the scene, it may be necessary to partition it and give everyone a turn. During a turn, a character may perform various actions, an exception being any `condition` that prevents a character from acting. Each turn takes approximately 6 seconds of in-game time to complete. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
 
 ## Actions
 
-During gameplay, characters may attempt numerous actions; while many are routine and effortless, some are contested or difficult. In such cases, an *action check* is called to validate each instance.
+During gameplay, characters may attempt numerous actions; while many are routine and effortless, some are contested or difficult. In such cases, an *action check* or *reaction check* is called to validate each instance. A check is performed by rolling the d20 and comparing the result against the DC. The action is successful if the roll is equal to or under the DC. The action has failed if the roll is above the DC.
 
 ### Action Check
 
