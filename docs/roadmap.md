@@ -13,12 +13,9 @@ The following is a list of the various apps and tools of the trade used to creat
 * ***[Affinity Publisher](https://affinity.serif.com/en-us/publisher/).*** Used to create the publication files for *Dungeon Legacy*.
 * ***[Adobe Acrobat](https://www.adobe.com/acrobat).*** Used to create *Dungeon Legacy* character forms.
 
-## Beta Core Features
+## Work In Progress
 
-Work in Progress
-🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️
-
-⏳ = In-Progress
+🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️ v1 Beta
 
 ### Jul 22, 2024
 
