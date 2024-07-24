@@ -56,13 +56,13 @@ This ruleset uses gaming dice to validate a character’s actions during gamepla
 
 Per the gamemaster, advantage (ADV) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the higher results; discard the low die.
 
-Typically, advantage is granted to a character when `Work In Progress`.
+Typically, advantage is granted to a character when `needs content`.
 
 #### Disadvantage
 
 Per the gamemaster, disadvantage (DIS) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the lower results; discard the high die.
 
-Typically, disadvantage is granted to a character when `Work In Progress`.
+Typically, disadvantage is granted to a character when `needs content`.
 
 ## Conventions
 

@@ -1,3 +1,3 @@
 # Weapons
 
-`Work In Progress`
+`needs content`

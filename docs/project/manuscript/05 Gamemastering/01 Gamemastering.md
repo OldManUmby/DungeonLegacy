@@ -1,11 +1,11 @@
 # Gamemastering
 
-`Work In Progress`
+`needs content`
 
 ## Optional Rules
 
-`Work In Progress`
+`needs content`
 
 ### Corruption
 
-`Work In Progress`
+`needs content`
