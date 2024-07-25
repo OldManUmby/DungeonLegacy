@@ -10,21 +10,19 @@ The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed 
 
 > ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Dungeon Legacy. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that get in the way, interfering with the game's flow. These games use plotted landscapes, or virtual tabletops (VTTs), that are excessively tactical; it's like playing a video game in slow motion. Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick detail without worrying about the tactical rules. Although handouts, maps, and basic miniature placement can be used, theatre-of-the-mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Many consider this mind’s eye approach the quintessential gaming style!
 
-## Characters
+## Player Roles
 
-In the *Dungeon Legacy* ruleset, a **character** is synonymous with a hero, player character, protagonist, villain, non-player character, antagonist, monster, and even a god. Most often, this ruleset separates characters from monsters.
+The ***Players*** direct the actions of the **heroes** - a.k.a. player characters (PC or PCs), the protagonists trying to survive and thrive in the adventures.
 
-The ***Players*** direct the actions of the **heroes** - a.k.a. player characters (PC or PCs), the protagonists trying to survive and thrive during the adventures.
+The ***Gamemaster (GM)*** directs the actions of the **villains** - a.k.a. non-player characters (NPC or NPCs) - the antagonists trying to undermine the heroes; this includes all monsters and powers-that-be. The GM is also responsible for overseeing the games.
 
-The ***Gamemaster (GM)*** directs the actions of the **villains** - a.k.a. non-player characters (NPC or NPCs) - the antagonists trying to undermine the heroes; this includes all monsters and powers-that-be. It is also the GM's responsibility to create and oversee the adventures.
+Specifically, a gamemaster's job is to create, arbitrate, narrate, and run the adventures and campaigns; however, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is continually generated - moment to moment - from the minds of the gamemaster, the players, and the results of each dice roll.
 
->***Player Safety.*** A gamemaster is usually more experienced and holds all the power, which comes with great responsibility. However, newer players will face dangers and unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding with the game; a session zero can be used this way. Nuff Said.
+***Gamemaster's Discretion.*** It should be noted that the gamemaster has the final say over ANY rule or in-game situation. If the GM wishes to make a judgment call, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a good session zero can be used this way. Nuff Said.
 
-Although it's the gamemaster's job to create, arbitrate, narrate, and run the adventures, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is continually generated - moment to moment - from the minds of the gamemaster, the players, and the results of each dice roll.
+***Player Safety.*** The gamemaster is usually the most experienced player and holds all the power, which comes with great responsibility. However, newbie players lack this experience and may face unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding; a good session zero can be used this way. Nuff Said.
 
->***Gamemaster's Discretion.*** Simply put, the gamemaster has the final say over ANY rule, decision, or situation. If the GM wishes to make a judgment call, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a session zero can be used this way. Nuff Said.
-
-## Modes
+## Modes of Play
 
 There are several modes of play available to players.
 
@@ -69,6 +67,8 @@ Typically, disadvantage is granted to a character when `copy needed here`.
 These customary conventions are practiced throughout the ruleset.
 
 ***Pronoun Usage.*** The pronoun he/him/his is sometimes used in the material. This is not a challenge to anyone's gender or social standing but rather a grammatical reference.
+
+***Creatures.*** This term is synonymous with a character or monster and any of the following: hero, player character, protagonist, villain, non-player character, antagonist, beast, and even deity or powerful beings.
 
 ***Specific Beats General.*** You may find aspects of the rules that break or contradict other elements. When a contradiction occurs, specific rules often beat general rules; however, the gamemaster will arbitrate as needed.
 
