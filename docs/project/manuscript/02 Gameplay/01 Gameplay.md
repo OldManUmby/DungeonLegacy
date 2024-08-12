@@ -4,37 +4,90 @@
 
 ## Scenes
 
-A gameplay session is played out in scenes. A scene represents a particular snippet where various activities occur within the adventure. Scenes fall into three broad phases.
+A gameplay session is played out in scenes. A scene represents a particular snippet where various activities occur within the adventure. Scenes fall into three broad states.
 
-* ***Exploration.*** These activities consist of traveling the world, exploring environments, and interacting with objects. This often leads to the accumulation of wealth and power.
-* ***Encounter.*** These activities consist of interacting with factions, characters, or other beings. This can also include attacking, defending, and evading opponents.
-* ***Downtime.*** These activities occur between adventures, like carousing, research, training, and other non-adventuring tasks. This can also include crafting and domain-level play.
+* ***Adventuring.*** These activities include traveling the world, exploring environments, and interacting with objects. Exploration can take minutes, hours, days, weeks, or even months to complete. Exploration can lead to great discovery and the accumulation of glory, wealth, and power.
+* ***Encounters.*** These activities include interacting with factions, characters, monsters, or other beings, but can also cover attacking, defending, and evading opponents. Encounters can take minutes or hours to complete. Multiple encounters can occur back to back.
+* ***Downtime.*** These activities occur between adventures, like carousing, research, training, and other non-adventuring tasks. This can also include crafting and domain-level play. Downtime can take hours, days, weeks, or even months to complete.
 
-Scenes can take minutes, hours, days, weeks, or months to complete, as determined by the gamemaster. It isn't necessary to always track time, although there are instances where giving everyone a more defined turn is necessary, particularly during combat encounters.
-
+It's the gamemaster who controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it to give everyone a turn.
 ## Turns
 
-Once the gamemaster sets the scene, it may be necessary to partition it and give everyone a turn. During a turn, a character may perform various actions, an exception being any `condition` that prevents a character from acting. Each turn takes approximately 6 seconds of in-game time to complete. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
+Each turn takes approximately 6 seconds of in-game time to complete. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
 
 ## Checks
 
-During gameplay, characters may attempt numerous actions; while many are routine and effortless, some are contested or difficult. In such cases, an *action check* or *reaction check* is called to validate each instance. A check is performed by rolling the d20 and comparing the result against the DC (see below). The action is successful if the roll is equal to or under the DC. The action has failed if the roll is above the DC.
+Some character actions are routine and effortless, while others are contested or pose a greater challenge. In such cases, a *check* is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number.
 
-***Defense Class (DC).*** Used for combat actions to determine the target number on the d20. The defense of an antagonist equals your STR or DEX minus the antagonist's level. The higher the defense, the lower the DC, the harder the action.
-
-***Difficulty Class (DC).*** Used for non-combat actions to determine the target number on the d20. The difficulty class of an action equals your character's ability score minus the difficulty level assigned by the gamemaster. The higher the difficulty, the lower the DC, the harder the action.
+The base target number (TN) equals your character's key ability for the attempted check. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
 
 ### Action Check
 
-The DC (see below) is determined using the appropriate ability for all actions.
+An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for that instance. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Listed below are the common traits and their key ability.
 
-***Defense Class (DC).*** Used to determine the target number for combat actions, like melee and ranged attacks. The defense class of a character or monster equals the attacker's STR or DEX minus the opposition's level. The higher the level, the lower the DC.
+* ***Strength.*** Climb, Force, Jump.
+* ***Dexterity.*** Balance, Sneak, Tumble.
+* ***Constitution.*** March, Run, Swim.
+* ***Intelligence.*** Learn, Lore, Reason.
+* ***Wisdom.*** Heal, Perceive, Ride.
+* ***Charisma.***  Charm, Deceive, Perform.
 
-***Difficulty Class (DC).*** Used to determine the target number for non-combat actions, like ability checks and skill use. The difficulty class of an action equals the appropriate character's ability score minus the difficulty level. The higher the level, the lower the DC.
+#### Challenge Ratings
 
-### Reaction Check
+There are three challenge ratings for action checks.
 
-Monsters don't make checks; a character must evade their attacks by making a reaction check.
+* ***Controlled.*** You are in full control, and the situation is favorable; as such, you have advantage.
+* ***Risky.*** You are taking a chance; the situation is neither favorable nor unfavorable.
+* ***Desperate.*** You are not in control, and the situation is unfavorable; as such, you have disadvantage.
+
+### Attack Check
+
+The target number for an action check equals the key ability minus the challenge rating (CR). Thus, a higher challenge rating lowers the target number, making the action check more difficult. Be aware creatures don't make checks; a character must dodge their attacks by making an *evasion check*.
+
+### Evasion Check
+
+A save check is made when a character needs to evade a creature's attack or special effect. The target number for a save check equals the key ability minus the challenge rating (CR). Thus, a higher challenge rating lowers the target number, making the action check more difficult. Be aware creatures don't make checks; a character must evade their attacks by making a *save check*.
+
+* ***Strength.*** Evade melee attacks and contend with forces that could physically move or bind characters.
+* ***Dexterity.*** Evade melee or ranged attacks and forces that could be dodged or out-maneuvered. 
+* ***Constitution.*** Resist fatigue, pain, toxins, and other forces affecting the character's health.
+* ***Intelligence.*** Resist mental assaults and forces affecting the conscious mind and faculties.
+* ***Wisdom.*** Resist illusions and forces affecting the senses and how the world is perceived.
+* ***Charisma.*** XX
+
+
+### Wisdom saving throws
+
+A Wisdom saving throw is looking at an illusion and noticing inconsistencies, intuitively knowing someone’s true motives, or perceiving a hidden agenda.
+
+- An enemy sorcerer casts a “hold person” spell on your character, trying to paralyze them. Roll a Wisdom saving throw to break free from the magical paralysis and regain control of your body.
+
+### Charisma saving throws
+
+Charisma Saving Throw is a check that determines how well a character can withstand effects, such as possession, that would subsume their personality or hurl them to another plane of existence.
+
+- A powerful vampire tries to take control of your character’s mind, forcing them to do its bidding. Roll a Charisma saving throw to resist the vampire’s dominating influence and maintain your character’s free will.
+
+### Death Saves
+
+A death-saving throw is a special type that doesn’t depend on ability scores or proficiency bonuses.
+
+| KEY ABILITY  | EVASION METHODOLOGY                    |
+| ------------ | -------------------------------------- |
+| Strength     | vs. Melee (block/parry)                |
+| Dexterity    | vs. Melee, Ranged, and Effects (dodge) |
+| Constitution | vs. Toxins and things affecting health |
+| Intelligence | vs. Illusions                          |
+| Wisdom       |                                        |
+| Charisma     |                                        |
+#### Challenge Ratings
+
+***Controlled.*** You are in full control of the situation, the conditions are favorable, and you have advantage.
+
+***Risky.*** The situation warrants a chance either way. The conditions are neither favorable nor unfavorable.
+
+***Desperate.*** You are not in control of the situation, the conditions are unfavorable, and you have disadvantage.
+
 
 ## Distances
 
