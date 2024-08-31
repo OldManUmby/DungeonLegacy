@@ -1,6 +1,6 @@
 # Roadmap
 
-The following is a list of the various apps and tools of the trade used to create *Dungeon Legacy*.
+The following is a list of the various apps and tools used to create *Dungeon Legacy*.
 
 * ***[Obsidian MD](https://obsidian.md).*** Used to organize and write all copy and content.
 * ***[Typora](https://typora.io).*** Used to generate the playtest documents for the project.
