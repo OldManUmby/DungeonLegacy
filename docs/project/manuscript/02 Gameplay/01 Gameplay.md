@@ -23,7 +23,7 @@ Some character actions are routine and effortless, while others are contested or
 
 ### Action Check
 
-An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for the action. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Below are the common `traits` listed with their key ability.
+An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for the action. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Below are the common `traits` listed under their key ability.
 
 * ***Strength.*** Climb, Force, Jump.
 * ***Dexterity.*** Balance, Sneak, Tumble.
@@ -42,31 +42,24 @@ There are three challenge ratings for action checks.
 
 ### Attack Check
 
-The target number for an action check equals the key ability minus the challenge rating (CR). Thus, a higher challenge rating lowers the target number, making the action check more difficult. Be aware creatures don't make checks; a character must dodge their attacks by making an *evasion check*.
+An attack check covers all attack actions, such as melee, ranged, and spells. The base target number for an attack check equals the key ability minus the opponent's challenge rating (CR). A higher challenge rating lowers the target number, making the attack check more difficult. Be aware creatures don't make attack checks; a character must dodge their attacks by making an *evasion check*.
 
 ### Evasion Check
 
-A save check is made when a character needs to evade a creature's attack or special effect. The target number for a save check equals the key ability minus the challenge rating (CR). Thus, a higher challenge rating lowers the target number, making the action check more difficult. Be aware creatures don't make checks; a character must evade their attacks by making a *save check*.
+An evasion check is made when a character needs to evade a creature's attack or a special effect. The target number for an evasion check equals the key ability minus the challenge rating (CR) of the creature or effect. A higher challenge rating lowers the target number, making the evasion check more difficult.
 
 * ***Strength.*** Evade melee attacks and contend with forces that could physically move or bind characters.
 * ***Dexterity.*** Evade melee or ranged attacks and forces that could be dodged or out-maneuvered. 
-* ***Constitution.*** Resist fatigue, pain, toxins, and other forces affecting the character's health.
-* ***Intelligence.*** Resist mental assaults and forces affecting the conscious mind and faculties.
-* ***Wisdom.*** Resist illusions and forces affecting the senses and how the world is perceived.
-* ***Charisma.*** XX
-
+* ***Constitution.*** Resist fatigue, toxins, and other forces affecting the character's physical health.
+* ***Intelligence.*** Resist mental assaults and forces affecting the conscious rational mind and mental health.
+* ***Wisdom.*** Resist illusions and forces affecting the senses and how things are perceived.
+* ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and morals.
 
 ### Wisdom saving throws
 
 A Wisdom saving throw is looking at an illusion and noticing inconsistencies, intuitively knowing someone’s true motives, or perceiving a hidden agenda.
 
 - An enemy sorcerer casts a “hold person” spell on your character, trying to paralyze them. Roll a Wisdom saving throw to break free from the magical paralysis and regain control of your body.
-
-### Charisma saving throws
-
-Charisma Saving Throw is a check that determines how well a character can withstand effects, such as possession, that would subsume their personality or hurl them to another plane of existence.
-
-- A powerful vampire tries to take control of your character’s mind, forcing them to do its bidding. Roll a Charisma saving throw to resist the vampire’s dominating influence and maintain your character’s free will.
 
 ### Death Saves
 
