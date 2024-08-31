@@ -1,12 +1,12 @@
 # Introduction
 
-A tabletop roleplaying game (TTRPG or RPG) is not just a game; it's a collaborative storytelling experience that fosters a sense of community. These games bring together a group of players around a table, usually more than two, to embark on adventures in a fictional setting, much like a novel, TV series, or movie.
+A tabletop roleplaying game (TTRPG) is not just a game but a collaborative storytelling experience fostering a sense of community. These games bring together players around a table, usually more than two, to embark on adventures in a fictional setting, much like a novel, TV series, or movie.
 
 Over the years, these games have evolved into the digital realm and are sometimes played around an online virtual tabletop. However, this digital shift is often less social and more tactical. Although it may be necessary to play online, *Dungeon Legacy* is not designed around the tactical experience but rather an old-school renaissance (OSR) experience.
 
 ## Dungeon Legacy
 
-The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed for storytelling, danger, and action flow, a return to non-tactical, theatre-of-the-mind gameplay. Adventures in *Dungeon Legacy* play fast and loose - rules as intended - and although maps and miniatures can be used, most game aids are minimal. However, unlike other OSR-style games, *Dungeon Legacy* still allows for a sundry of character options, supplemental rules, and tons of gear. Also, *Dungeon Legacy* is highly customizable; easily add your own flavors and houserules to expand the game even further.
+The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed for storytelling, danger, and action flow, a return to non-tactical, theatre-of-the-mind gameplay. Adventures in *Dungeon Legacy* play fast and loose - rules as intended - and although maps and miniatures can be used, most game aids are minimal. However, unlike other OSR-style games, *Dungeon Legacy* still allows for a sundry of character options, supplemental rules, and tons of gear. Also, *Dungeon Legacy* is highly customizable; easily add your flavors and houserules to further expand the game.
 
 > ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Dungeon Legacy. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that get in the way, interfering with the game's flow. These games use plotted landscapes, or virtual tabletops (VTTs), that are excessively tactical; it's like playing a video game in slow motion. Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick detail without worrying about the tactical rules. Although handouts, maps, and basic miniature placement can be used, theatre-of-the-mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Many consider this mind’s eye approach the quintessential gaming style!
 
@@ -20,7 +20,7 @@ Specifically, a gamemaster's job is to create, arbitrate, narrate, and run the a
 
 ***Gamemaster's Discretion.*** It should be noted that the gamemaster has the final say over ANY rule or in-game situation. If the GM wishes to make a judgment call, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a good session zero can be used this way. Nuff Said.
 
-***Player Safety.*** The gamemaster is usually the most experienced player and holds all the power, which comes with great responsibility. However, newbie players lack this experience and may face unique challenges they may not be accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust things before proceeding; a good session zero can be used this way. Nuff Said.
+***Player Safety.*** The gamemaster is usually the most experienced player and holds all the power, which comes with great responsibility. However, new players have yet to gain this experience and may face unique challenges they are not accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding; a good session zero can be used this way. Nuff Said.
 
 ## Modes of Play
 
@@ -28,7 +28,7 @@ There are several modes of play available to players.
 
 ***Group Play.*** This is the typical method of gameplay consisting of at least one player and a gamemaster, although many more players are common. This is the default mode of play.
 
-***Coop Play.*** This mode is like group play but without a gamemaster. Here, the players share responsibility as gamemaster using as little or as much of the solo play ruleset as needed.
+***Coop Play.*** This mode is like group play but without a gamemaster. Here, the players share the responsibility of being gamemaster using as little or as much of the solo play ruleset as needed.
 
 ***Solo Play.*** This is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
 
