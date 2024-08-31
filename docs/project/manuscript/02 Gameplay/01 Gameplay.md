@@ -58,15 +58,11 @@ An evasion check is made when a character needs to evade a creature's attack or 
 ## Distances
 
 ***Self.*** XX
-
 ***Reach.*** You're within reach if you are a few steps away. Fighting occurs within reach (approx. 10').
-
+***Outreach.*** XX
 ***Close.*** You're close if you are only a move action away. 
-
 ***Near.*** XX
-
 ***Distant.*** XX
-
 ***Remote.*** XX
 
 ## Initiative
