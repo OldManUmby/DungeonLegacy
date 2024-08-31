@@ -55,33 +55,6 @@ An evasion check is made when a character needs to evade a creature's attack or 
 * ***Wisdom.*** Resist illusions and forces affecting the senses and how things are perceived.
 * ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and morals.
 
-### Wisdom saving throws
-
-A Wisdom saving throw is looking at an illusion and noticing inconsistencies, intuitively knowing someone’s true motives, or perceiving a hidden agenda.
-
-- An enemy sorcerer casts a “hold person” spell on your character, trying to paralyze them. Roll a Wisdom saving throw to break free from the magical paralysis and regain control of your body.
-
-### Death Saves
-
-A death-saving throw is a special type that doesn’t depend on ability scores or proficiency bonuses.
-
-| KEY ABILITY  | EVASION METHODOLOGY                    |
-| ------------ | -------------------------------------- |
-| Strength     | vs. Melee (block/parry)                |
-| Dexterity    | vs. Melee, Ranged, and Effects (dodge) |
-| Constitution | vs. Toxins and things affecting health |
-| Intelligence | vs. Illusions                          |
-| Wisdom       |                                        |
-| Charisma     |                                        |
-#### Challenge Ratings
-
-***Controlled.*** You are in control of the situation, the conditions are favorable, and you have advantage.
-
-***Risky.*** The situation warrants a chance either way. The conditions are neither favorable nor unfavorable.
-
-***Desperate.*** You are not in control of the situation, the conditions are unfavorable, and you have disadvantage.
-
-
 ## Distances
 
 ***Self.*** XX
