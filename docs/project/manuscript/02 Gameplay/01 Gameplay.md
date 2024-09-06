@@ -10,7 +10,7 @@ A gameplay session is played out in scenes. A scene represents a particular snip
 * ***Encounters.*** These activities include interacting with factions, characters, monsters, or other beings, but can also cover attacking, defending, and evading opponents. Encounters can take minutes or hours to complete. Multiple encounters can occur back to back.
 * ***Downtime.*** These activities occur between adventures, like carousing, research, training, and other non-adventuring tasks. This can also include crafting and domain-level play. Downtime can take hours, days, weeks, or even months to complete.
 
-The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition the scene, allowing everyone a turn.
+The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it, granting everyone a turn.
 ## Turns
 
 Each turn takes approximately 6 seconds of in-game time. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene transitions or is concluded.
@@ -19,7 +19,7 @@ Each turn takes approximately 6 seconds of in-game time. A round is when everyon
 
 Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a *check* is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number.
 
-> The base target number (TN) equals your character's key ability, adjusted accordingly for the type of check. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
+> The base target number (TN) equals your character's key ability, adjusted accordingly for the type of check: `Action, Attack, or Evasion`. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
 
 ### Action Check
 
@@ -42,7 +42,7 @@ There are three challenge ratings for action checks.
 
 ### Attack Check
 
-An attack check covers all attack actions, such as melee, ranged, and spells. The base target number for an attack check equals the key ability minus the opponent's challenge rating (CR). A higher challenge rating lowers the target number, making the attack check more difficult. Be aware creatures don't make attack checks; a character must dodge their attacks by making an *evasion check*.
+An attack check covers all attack actions, such as melee, ranged, and spells. The base target number for an attack check equals the key ability minus the opponent's challenge rating (CR). A higher challenge rating lowers the target number, making the attack check more difficult. Be aware creatures don't make attack checks; a character must dodge their attacks by making an *evasion check*. `If no evasion check is made, an attack automatically hits.`
 
 ### Evasion Check
 
@@ -51,7 +51,7 @@ An evasion check is made when a character needs to evade a creature's attack or 
 * ***Strength.*** Evade melee attacks and contend with forces that could physically move or bind characters.
 * ***Dexterity.*** Evade melee or ranged attacks and forces that could be dodged or out-maneuvered. 
 * ***Constitution.*** Resist fatigue, toxins, and other forces affecting the character's physical health.
-* ***Intelligence.*** Resist mental assaults and forces affecting the conscious rational mind and mental health.
+* ***Intelligence.*** Resist mental assaults and forces affecting the conscious, rational mind, and mental health.
 * ***Wisdom.*** Resist illusions and forces affecting the senses and how things are perceived.
 * ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and morals.
 
