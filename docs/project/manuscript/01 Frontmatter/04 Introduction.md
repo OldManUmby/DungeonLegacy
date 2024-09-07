@@ -46,7 +46,7 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 
 This ruleset uses polyhedral gaming dice to validate a character’s actions during gameplay or to determine something randomly. In such cases, a handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100). The rules or the gamemaster will determine which dice are needed in each instance.
 
-***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand, except during `advantage/disadvantage`. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
+***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand (except during `advantage/disadvantage`). Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
 ***Dice Expressions.*** When multiples of the same die type (dice pools) are described in the text, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*. Dice pools are often rolled and then tallied and may include a modifier, like *3d6+1*, where one is added to the tally.
 
