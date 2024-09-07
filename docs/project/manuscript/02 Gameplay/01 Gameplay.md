@@ -4,11 +4,11 @@
 
 ## Scenes
 
-A gameplay session is played out in scenes. A scene represents a particular snippet where specific activities occur within the adventure. Scenes fall into three broad states.
+A gameplay session is played out in scenes or snippets of activities. Scenes fall into three broad states.
 
-* ***Adventuring.*** These activities include traveling the world, exploring environments, and interacting with objects. Exploration can take minutes, hours, days, weeks, or even months to complete. Exploration can lead to great discovery and the accumulation of glory, wealth, and power.
-* ***Encounters.*** These activities include interacting with factions, characters, monsters, or other beings, but can also cover attacking, defending, and evading opponents. Encounters can take minutes or hours to complete. Multiple encounters can occur back to back.
-* ***Downtime.*** These activities occur between adventures, like carousing, research, training, and other non-adventuring tasks. This can also include crafting and domain-level play. Downtime can take hours, days, weeks, or even months to complete.
+* ***Adventuring.*** These activities include delving, exploring, investigating, scrutinizing, and traveling.
+* ***Encounters.*** These activities include dealing with factions, characters, monsters, or other beings.
+* ***Downtime.*** These activities occur between adventures, like carousing, crafting, research, and training.
 
 The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it, granting everyone a turn.
 ## Turns
@@ -19,7 +19,7 @@ Each turn takes approximately 6 seconds of in-game time. A round is when everyon
 
 Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a *check* is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number.
 
-> The base target number (TN) equals your character's key ability, adjusted accordingly for the type of check: `Action, Attack, or Evasion`. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
+***Target Number.*** The base target number (TN) equals your character's key ability, adjusted for the challenge rating. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
 
 ### Action Check
 
