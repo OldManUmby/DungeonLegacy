@@ -4,7 +4,7 @@ A tabletop roleplaying game (TTRPG) is not just a game but a collaborative story
 
 ## Dungeon Legacy
 
-The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed for storytelling, danger, and action flow, a return to non-tactical, theatre-of-the-mind gameplay. Adventures in *Dungeon Legacy* play fast and loose - rules as intended - and although maps and miniatures can be used, most game aids are minimal. However, unlike other OSR-style games, *Dungeon Legacy* still allows for a sundry of character options, supplemental rules, and tons of gear. Also, *Dungeon Legacy* is highly customizable; add your flavors and houserules to expand the game further.
+The ***Dungeon Legacy*** RPG is a rules-lite tabletop roleplaying game designed for storytelling, danger, and action flow, a return to non-tactical, theatre-of-the-mind gameplay. Adventures in *Dungeon Legacy* is written in an Old-School Renaissance (OSR) style, so it plays fast and loose - rules as intended - and although maps and miniatures can be used, most game aids are minimal. However, unlike other OSR games, *Dungeon Legacy* still allows for a sundry of character options, supplemental rules, and tons of gear. Also, *Dungeon Legacy* is highly customizable; add your flavors and houserules to expand the game further.
 
 > ***Theatre-of-the-Mind.*** This style of play is where everything in-game is wholly imagined, taking place in the players' minds, and is at the heart of Dungeon Legacy. Here, the group can experience interactive adventures through the back-and-forth storytelling between the gamemaster and the players. Many modern rulesets rely on tactical rules that get in the way, interfering with the game's flow. These games use plotted landscapes, or virtual tabletops (VTTs), that are excessively tactical; it's like playing a video game in slow motion. Theatre-of-the-mind is non-tactical and allows players and gamemasters to describe actions in quick detail without worrying about the tactical rules. Although handouts, maps, and basic miniature placement can be used, theatre-of-the-mind allows gaming groups to concentrate more on the storylines, descriptions, and characterizations. This provides an opportunity to visualize and respond to everything in more detail and less time, allowing for more productive and enjoyable game sessions. In addition, the gamemaster will spend less time preparing the tools of the trade for each adventure. Many consider this mind’s eye approach the quintessential gaming style!
 
@@ -24,9 +24,11 @@ Specifically, a gamemaster's job is to create, arbitrate, narrate, and run the a
 
 There are several modes of play available to players.
 
-***Group Play.*** This is the typical method of gameplay consisting of at least one player and a gamemaster, although more players are common. This is the default mode of play.
+***Crew Play*** This is the primary method of gameplay consisting of a group of players and a gamemaster; one-on-one play also fits here. This is the default mode of play, and this ruleset reflects that throughout.
 
-***Coop Play.*** This mode is like group play but without a gamemaster. Here, the players share the gamemaster duties using as little or as much of the solo play ruleset as needed.
+***Team Play.*** This mode is like crew play but consists of several crews striving to reach a common objective.
+
+***Coop Play.*** This mode is like crew play but without a gamemaster. Here, the players share the gamemaster duties using as little or as much of the solo play ruleset as needed.
 
 ***Solo Play.*** This is where a single player also acts as a gamemaster using the *Dungeon Legacy Solo Ruleset*, complete with a tableless oracle.
 
@@ -42,11 +44,13 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 
 ### Gaming Dice
 
-This ruleset uses gaming dice to validate a character’s actions during gameplay. A handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100).
+This ruleset uses gaming dice to validate a character’s actions during gameplay or to determine something randomly. In such cases, a handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100). The rules or the gamemaster will determine which dice are needed in each instance.
 
 ***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
-***Dice Expressions and Pools.*** When multiples of the same die type are described in the text, called dice pools, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*. Dice expressions may also include a modifier, such as *3d6+1*.
+***Dice Expressions.*** When multiples of the same die type (dice pools) are described in the text, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*. Dice pools are often rolled and then tallied and may include a modifier, like *3d6+1*, where one is added to the tally.
+
+***Always Round Down.*** Unless specified in the rules, when you divide or multiply any number, you will always round down, no matter the fraction; a minimum of 1 always applies.
 
 #### Advantage
 
