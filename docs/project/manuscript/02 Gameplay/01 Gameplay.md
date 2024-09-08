@@ -4,7 +4,7 @@
 
 ## Scenes
 
-A gameplay session is played out in scenes or snippets of activities. Scenes fall into three broad states.
+A gameplay session is played in scenes, snippets of activities that fall into three broad states.
 
 * ***Adventuring.*** These activities include delving, exploring, investigating, scrutinizing, and traveling.
 * ***Encounters.*** These activities include dealing with factions, characters, monsters, or other beings.
@@ -13,7 +13,7 @@ A gameplay session is played out in scenes or snippets of activities. Scenes fal
 The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it, granting everyone a turn.
 ## Turns
 
-Each turn takes approximately 6 seconds of in-game time. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene transitions or is concluded.
+During encounters, each turn takes approximately 6 seconds of in-game time; otherwise, a turn may take minutes, hours, days, or longer, per the gamemaster. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
 
 ## Checks
 
