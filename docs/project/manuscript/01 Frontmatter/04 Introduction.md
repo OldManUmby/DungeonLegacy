@@ -16,9 +16,7 @@ The ***Gamemaster (GM)*** directs the actions of the **villains** - a.k.a. non-p
 
 Specifically, a gamemaster's job is to create, arbitrate, narrate, and run the adventures and campaigns; however, it's everyone's job to create an atmosphere of fun. Together, the gamemaster and the players co-write the ongoing storyline from each person's - or character's - point of view. The storyline is continually generated - moment to moment - from the minds of the gamemaster, the players, and the results of each dice roll.
 
-***Gamemaster's Discretion.*** It should be noted that the gamemaster has the final say over ANY rule or in-game situation. If the GM wishes to make a judgment call, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to set expectations and discuss any homebrewed changes before playing; a good session zero can be used this way. Nuff Said.
-
-***Player Safety.*** The gamemaster is usually the most experienced player and holds all the power, which comes with great responsibility. However, new players have yet to gain this experience and may face unique challenges they are not accustomed to or comfortable with. Before starting, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding; a good session zero can be used this way. Nuff Said.
+> ***Gaming Etiquette.*** It should be noted that the gamemaster has the final say over ANY rule or in-game situation. If the GM wishes to make a judgment call, change, or houserule anything in the game - on the spot - that is within the GM's purview. However, it's always best to discuss any homebrewed changes before playing. Also, before starting a game for the first time, both the gamemaster and the players should set any expectations they feel are essential. Always respect each other and pause the game when issues arise. Discuss what is happening and adjust before proceeding; a good session zero can be used this way. Nuff Said.
 
 ## Modes of Play
 
