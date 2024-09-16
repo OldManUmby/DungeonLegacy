@@ -46,9 +46,13 @@ This ruleset uses polyhedral gaming dice to validate a character’s actions dur
 
 ***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand (except during `advantage/disadvantage`). Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
-***Dice Expressions.*** When multiples of the same die type (dice pools) are described in the text, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*. Dice pools are often rolled and then tallied and may include a modifier, like *3d6+1*, where one is added to the tally.
+***Dice Expressions.*** When multiples of the same die type (dice pools) are described in the text, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*.
 
 ***Always Round Down.*** Unless specified in the rules, when you divide or multiply any number, you will always round down, no matter the fraction; a minimum of 1 always applies.
+
+#### Modifiers
+
+Dice pools are often rolled and tallied and may include a modifier, like *3d6+1*, where one is added to the tally.
 
 #### Advantage
 
