@@ -20,9 +20,9 @@ Specifically, a gamemaster's job is to create, arbitrate, narrate, and run the a
 
 ## Modes of Play
 
-There are several modes of play available to players.
+There are several modes of play available within the game.
 
-***Crew Play*** This is the primary method of gameplay consisting of a group of players and a gamemaster; one-on-one play also fits here. This is the default mode of play, and this ruleset reflects that throughout.
+***Crew Play.*** This is the primary method of gameplay consisting of a group of players and a gamemaster; one-on-one play also fits here. This is the default play mode, and this ruleset reflects that throughout.
 
 ***Team Play.*** This mode is like crew play but consists of several crews striving to reach a common objective.
 
