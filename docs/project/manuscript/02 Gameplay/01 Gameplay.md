@@ -17,13 +17,13 @@ During encounters, each turn takes approximately 6 seconds of in-game time; duri
 
 ## Checks
 
-Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a *check* is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number.
+Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a *check* is called to validate each action. A check is performed by rolling a d20 and comparing the result against a target number.
 
-***Target Number.*** The base target number (TN) equals your character's key ability, adjusted for the challenge rating. The check succeeds if the roll is equal to or under the target number. The check fails if the roll exceeds the target number.
+***Target Number.*** The base target number (TN) equals your character's key ability for all actions, adjusted for the challenge rating. The check succeeds unless the roll exceeds the target number. For example, the check is successful if the target number is 15 and the roll is 15 or less. Had the roll been 16 or higher, the check would have failed.
 
 ### Action Check
 
-An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for the action. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Below are the common `traits` listed under their key ability.
+An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for the action. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
 
 * ***Strength.*** Climb, Force, Jump.
 * ***Dexterity.*** Balance, Sneak, Tumble.
@@ -48,12 +48,12 @@ An attack check covers all attack actions, such as melee, ranged, and spells. Th
 
 An evasion check is made when a character needs to evade a creature's attack or a special effect. The target number for an evasion check equals the key ability minus the challenge rating (CR) of the creature or effect. A higher challenge rating lowers the target number, making the evasion check more difficult.
 
-* ***Strength.*** Evade melee attacks and contend with forces that could physically move or bind characters.
-* ***Dexterity.*** Evade melee or ranged attacks and forces that could be dodged or out-maneuvered. 
-* ***Constitution.*** Resist fatigue, toxins, and other forces affecting the character's physical health.
+* ***Strength.*** Block attacks with shields or weapons and contend with forces that could move or bind.
+* ***Dexterity.*** Dodge, parry, or out-maneuver attacks and forces.
+* ***Constitution.*** Resist fatigue, toxins, and other forces that affect physical health.
 * ***Intelligence.*** Resist mental assaults and forces affecting the conscious, rational mind, and mental health.
 * ***Wisdom.*** Resist illusions and forces affecting the senses and how things are perceived.
-* ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and morals.
+* ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and willpower.
 
 ## Distances
 
