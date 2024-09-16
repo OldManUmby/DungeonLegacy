@@ -13,7 +13,7 @@ A gameplay session is played in scenes, snippets of activities that fall into th
 The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it, granting everyone a turn.
 ## Turns
 
-During encounters, each turn takes approximately 6 seconds of in-game time; otherwise, a turn may take minutes, hours, days, or longer, per the gamemaster. A round is when everyone completes a single turn; the next round begins once all turns are finalized. This process continues until the scene is concluded.
+During encounters, each turn takes approximately 6 seconds of in-game time; during other scenes, a turn may take minutes, hours, days, or longer, per the gamemaster. A round is when everyone completes a single turn within the scene; the next round begins once all turns are finalized. This process continues until the scene is concluded.
 
 ## Checks
 
