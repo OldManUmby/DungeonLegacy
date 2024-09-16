@@ -44,7 +44,7 @@ A few supplies are needed to use this ruleset; these items can be physical, digi
 
 This ruleset uses polyhedral gaming dice to validate a character’s actions during gameplay or to determine something randomly. In such cases, a handful of dice will be needed, typically consisting of a 4-sided die (d4), 6-sided die (d6), 8-sided die (d8), 10-sided die (d10), 12-sided die (d12), 20-sided die (d20), and percentile dice (d100). The rules or the gamemaster will determine which dice are needed in each instance.
 
-***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand (except during `advantage/disadvantage`). Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
+***Percentile Dice (d100).*** This die type comprises two 10-sided dice of different colors or styles. One die represents the "tens" position, and the other represents the "ones" position, each designated beforehand. Rolled together, the dice will generate a percentile number from 01% to 99%, and a roll of "00" (double zeros) on the dice equals 100%.
 
 ***Dice Expressions.*** When multiples of the same die type (dice pools) are described in the text, the number of dice to roll will appear before the die type. For example, three 6-sided dice (d6) are written as *3d6*.
 
@@ -56,13 +56,13 @@ Dice pools are often rolled and tallied and may include a modifier, like *3d6+1*
 
 #### Advantage
 
-Per the gamemaster, advantage (ADV) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the higher results; discard the low die. For percentile dice, advantage is swapping the dice positions after the roll to achieve a better outcome.
+Per the gamemaster, advantage (ADV) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the higher results; discard the low die. For percentile dice, advantage means swapping the dice positions after the roll to achieve a better outcome.
 
 Typically, advantage is granted to a character when `copy needed here`.
 
 #### Disadvantage
 
-Per the gamemaster, disadvantage (DIS) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the lower results; discard the high die. For percentile dice, disadvantage is swapping the dice positions after the roll to achieve a lesser outcome.
+Per the gamemaster, disadvantage (DIS) may apply to any single die roll or when using multiples of dice (dice pools). Under such circumstances, add an extra die to the roll and use the lower results; discard the high die. For percentile dice, disadvantage means swapping the dice positions after the roll to achieve a lesser outcome.
 
 Typically, disadvantage is granted to a character when `copy needed here`.
 
