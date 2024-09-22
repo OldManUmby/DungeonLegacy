@@ -10,20 +10,27 @@ A gameplay session is played in scenes, snippets of activities that fall into th
 * ***Encounters.*** These activities include dealing with factions, characters, monsters, or other beings.
 * ***Downtime.*** These activities occur between adventures, like carousing, crafting, research, and training.
 
-The gamemaster controls the transition from one scene to another, often with cues from the players. Once the gamemaster sets the scene, it may be necessary to partition it, granting everyone a turn.
+The gamemaster controls the transition from one scene to another, often with cues from the players.
 ## Turns
 
-During encounters, each turn takes approximately 6 seconds of in-game time; during other scenes, a turn may take minutes, hours, days, or longer, per the gamemaster. A round is when everyone completes a single turn within the scene; the next round begins once all turns are finalized. This process continues until the scene is concluded.
+Once the gamemaster sets the *scene*, it may be necessary to partition it, granting everyone a turn. During *encounters*, each turn takes approximately 6 seconds of in-game time; during other *scenes*, a turn may take minutes, hours, days, or longer, per the gamemaster.
+
+A ***Round*** is when everyone completes their turn; the next round begins once all turns are finalized. This process continues until the *scene* is concluded.
 
 ## Checks
 
-Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a *check* is called to validate each action. A check is performed by rolling a d20 and comparing the result against a target number.
+Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a check is called to validate each action. A check is performed by rolling a d20 and comparing the result against a target number.
 
-***Target Number.*** The base target number (TN) equals your character's key ability for all actions, adjusted for the challenge rating. The check succeeds unless the roll exceeds the target number. For example, the check is successful if the target number is 15 and the roll is 15 or less. Had the roll been 16 or higher, the check would have failed.
+The ***Target Number*** equals your character's key ability for the action, adjusted for the challenge rating. The check succeeds if the roll is less than or equal to the target number. The check fails if the roll exceeds the target number.
 
-### Action Check
+The ***Challenge Rating*** modifies the target number according to the action type.
 
-An action check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number for an action equals your character's key ability for the action. However, many actions can use alternate abilities depending upon the situation, per the gamemaster. For example, an attempt at intimidation could use charisma, intelligence, or strength, depending upon the method employed. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
+Contested/Opposed
+Uncontested/Unopposed
+
+### Trait Check
+
+A trait check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number equals your character's key ability for the trait. For some actions, alternate traits may be available. For example, an attempt at persuasion could use *Charm*, *Deceive*, or *Reason*, depending upon the method employed. Also, some traits could employ a different ability, such as Dexterity or Intelligence for *Perform*. In each instance, the gamemaster will mediate appropriately. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
 
 * ***Strength.*** Climb, Force, Jump.
 * ***Dexterity.*** Balance, Sneak, Tumble.
@@ -37,7 +44,7 @@ An action check covers all non-attack actions, such as climbing, sneaking, and r
 There are three challenge ratings for action checks.
 
 * ***Controlled.*** You are in control, and the situation is favorable; as such, you have advantage.
-* ***Risky.*** You are taking a chance; the situation is neither favorable nor unfavorable.
+* ***Risky.*** You are taking a chance; the situation balances out, neither favorable nor unfavorable.
 * ***Desperate.*** You are not in control, and the situation is unfavorable; as such, you have disadvantage.
 
 ### Attack Check
