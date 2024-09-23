@@ -4,33 +4,72 @@
 
 ## Scenes
 
-A gameplay session is played in scenes, snippets of activities that fall into three broad states.
+A game session is played in scenes that fall into three broad states.
 
-* ***Adventuring.*** These activities include delving, exploring, investigating, scrutinizing, and traveling.
-* ***Encounters.*** These activities include dealing with factions, characters, monsters, or other beings.
-* ***Downtime.*** These activities occur between adventures, like carousing, crafting, research, and training.
+* ***Adventuring.*** Activities include delving, exploring, investigating, scrutinizing, and traveling.
+* ***Encounters.*** Activities include fighting or interacting with characters, monsters, and other beings.
+* ***Downtime.*** Activities occurring between adventures, like carousing, crafting, research, and training.
 
 The gamemaster controls the transition from one scene to another, often with cues from the players.
-## Turns
+## Rounds
 
-Once the gamemaster sets the *scene*, it may be necessary to partition it, granting everyone a turn. During *encounters*, each turn takes approximately 6 seconds of in-game time; during other *scenes*, a turn may take minutes, hours, days, or longer, per the gamemaster.
+Once the gamemaster sets the scene, it may be necessary to partition it into rounds, granting each character a turn and their moment in the spotlight. During encounters, each round takes approximately 6 seconds of in-game time, with characters acting and reacting on their turn. During other scenes, a turn may take minutes, hours, days, or longer, per the gamemaster.
 
-A ***Round*** is when everyone completes their turn; the next round begins once all turns are finalized. This process continues until the *scene* is concluded.
+The round is complete once all characters take their turn; the next round begins once all turns are finalized. This process continues until the scene is concluded. For reference, there are 10 rounds in a minute.
+
+### Initiative
+
+This process determines who takes their turn first within a round.
 
 ## Checks
 
-Some character actions are routine and effortless, while others are contested or pose a more significant challenge. In such cases, a check is called to validate each action. A check is performed by rolling a d20 and comparing the result against a target number.
+Some character activities are routine and effortless, while others are contested or pose a more significant challenge; a check is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number. The check involved - being an action or reaction - determines the target number.
 
-The ***Target Number*** equals your character's key ability for the action, adjusted for the challenge rating. The check succeeds if the roll is less than or equal to the target number. The check fails if the roll exceeds the target number.
+### Action Check
+
+`copy needed here`
+
+**_Strength_**. Used in melee combat to attack and block or resist effects that physically move or bind.
+Strength Skills: Climb, Force, Leap.
+
+**_Dexterity_**. Used in ranged combat to attack and evade effects that can be dodged or outmaneuvered. Dexterity Skills: Balance, Sneak, Tumble.
+
+**_Constitution_**. Used in melee combat to charge. Also used to resist fatigue, illnesses, toxins, and debilitating effects.
+Constitution Skills: Dash, March, Swim.
+
+**_Intelligence_**. Resist mental assaults and effects that alter the mind.
+Intelligence Skills: Learn, Reason, Recall.
+
+**_Wisdom_**. Resist illusions, subterfuge, and effects which alter the senses.
+Wisdom Skills: Heal, Notice, Ride.
+
+**_Charisma_**. Resist persuasion and effects that diminish self-control.
+Charisma Skills: Influence, Perform. Trick.
+
+
+### Reaction Check
+
+`copy needed here`
+
+
+
+
+
+
+
+
+
+
+The ***Target Number*** equals your character's attribute for the action, adjusted for the challenge rating. The check succeeds if the roll is less than or equal to the target number. The check fails if the roll exceeds the target number.
 
 The ***Challenge Rating*** modifies the target number according to the action type.
 
-Contested/Opposed
-Uncontested/Unopposed
+Contested
+Uncontested
 
 ### Trait Check
 
-A trait check covers all non-attack actions, such as climbing, sneaking, and riding. The base target number equals your character's key ability for the trait. For some actions, alternate traits may be available. For example, an attempt at persuasion could use *Charm*, *Deceive*, or *Reason*, depending upon the method employed. Also, some traits could employ a different ability, such as Dexterity or Intelligence for *Perform*. In each instance, the gamemaster will mediate appropriately. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
+An action check covers all actions, such as attacking, climbing, sneaking, and riding. The base target number equals your character's key ability for the trait. For some actions, alternate traits may be available. For example, an attempt at persuasion could use *Charm*, *Deceive*, or *Reason*, depending upon the method employed. Also, some traits could employ a different ability, such as Dexterity or Intelligence for *Perform*. In each instance, the gamemaster will mediate appropriately. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
 
 * ***Strength.*** Climb, Force, Jump.
 * ***Dexterity.*** Balance, Sneak, Tumble.
