@@ -6,26 +6,37 @@
 
 A game session is played in scenes that fall into three broad states.
 
-* ***Adventuring.*** Activities include delving, exploring, investigating, scrutinizing, and traveling.
-* ***Encounters.*** Activities include fighting or interacting with characters, monsters, and other beings.
+* ***Adventuring.*** Activities like delving, exploring, investigating, scrutinizing, and traveling.
+* ***Encounters.*** Activities like fighting or interacting with characters, monsters, and other beings.
 * ***Downtime.*** Activities occurring between adventures, like carousing, crafting, research, and training.
 
-The gamemaster controls the transition from one scene to another, often with cues from the players.
+The gamemaster sets each scene and manages the transition from one scene to another, often with cues from the players.
+
 ## Rounds
 
-Once the gamemaster sets the scene, it may be necessary to partition it into rounds, granting each character a turn and their moment in the spotlight. During encounters, each round takes approximately 6 seconds of in-game time, with characters acting and reacting on their turn. During other scenes, a turn may take minutes, hours, days, or longer, per the gamemaster.
+Once the gamemaster sets the scene, it may be necessary to divide it into rounds, granting each character a turn to resolve their actions. The next round begins once all turns are finalized. This process continues until the scene is concluded.
 
-The round is complete once all characters take their turn; the next round begins once all turns are finalized. This process continues until the scene is concluded. For reference, there are 10 rounds in a minute.
+During encounters, each round takes approximately 6 seconds of in-game time, with 10 rounds in a minute. During other scenes, a round may take minutes, hours, days, or longer to finalize, per the gamemaster.
 
 ### Initiative
 
-This process determines who takes their turn first within a round.
+This process determines who takes their turn first within a round. This ruleset uses `copy needed here`
 
-## Checks
+## Actions
 
-Some character activities are routine and effortless, while others are contested or pose a more significant challenge; a check is called to validate each instance. A check is performed by rolling a d20 and comparing the result against a target number. The check involved - being an action or reaction - determines the target number.
+Some character actions are routine and effortless, while others are contested or pose a more significant challenge; during such instances, a check is called to validate each action.
 
-### Action Check
+### Checks
+
+For actions and reactions, a check is performed by rolling a d20 at or under a target number (TN), derived from the relevant attribute adjusted for the challenge level.
+
+> Target Number (TN) = Relevant Attribute - Challenge Level
+
+### Challenge Level
+
+`copy needed here`
+
+### Attributes
 
 `copy needed here`
 
