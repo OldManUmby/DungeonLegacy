@@ -47,3 +47,4 @@ The following is a list of apps and tools used to create *Dungeon Legacy*.
 	- [x] Distance
 	- [x] Initiative
 	- [x] Damage
+- [ ] Classes ⏳
