@@ -1,11 +1,11 @@
 # Gamemastering
 
-`copy needed here`
+`COPY NEEDED HERE`
 
 ## Optional Rules
 
-`copy needed here`
+`COPY NEEDED HERE`
 
 ### Corruption
 
-`copy needed here`
+`COPY NEEDED HERE`

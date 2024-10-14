@@ -1,3 +1,3 @@
 # Supplies
 
-`copy needed here`
+`COPY NEEDED HERE`

@@ -1,3 +1,3 @@
 # Weapons
 
-`copy needed here`
+`COPY NEEDED HERE`

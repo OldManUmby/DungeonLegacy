@@ -1,127 +1,59 @@
 # Gameplay
 
-`copy needed here`
+`COPY NEEDED HERE`
 
 ## Scenes
 
 A game session is played in scenes that fall into three broad states.
 
-* ***Adventuring.*** Activities like delving, exploring, investigating, scrutinizing, and traveling.
-* ***Encounters.*** Activities like fighting or interacting with characters, monsters, and other beings.
-* ***Downtime.*** Activities occurring between adventures, like carousing, crafting, research, and training.
+***Adventuring.*** Activities like delving, exploring, investigating, examining, and traveling.
+***Encounters.*** Activities like fighting or interacting with characters, monsters, and other beings.
+***Downtime.*** Activities that occur while not adventuring, like carousing, crafting, research, and training.
 
-The gamemaster sets each scene and manages the transition from one scene to another, often with cues from the players.
+Some activities may overlap states; for example, traveling could be considered an adventuring or downtime activity, depending on its context.
 
-## Rounds
+The gamemaster sets each scene and manages the transition from one to another, often as part of the adventure or plot or by responding to player cues. Transitions can happen seamlessly or dramatically, depending on the situation, keeping the flow of the narrative dynamic.
 
-Once the gamemaster sets the scene, it may be necessary to divide it into rounds, granting each character a turn to resolve their actions. The next round begins once all turns are finalized. This process continues until the scene is concluded.
+## Turns
 
-During encounters, each round takes approximately 6 seconds of in-game time, with 10 rounds in a minute. During other scenes, a round may take minutes, hours, days, or longer to finalize, per the gamemaster.
+Once the gamemaster sets the scene, it may be necessary to grant each character a turn to resolve their actions. The turn length is adaptable to fit the narrative or gameplay situation as needed. Most actions co-occur in an open and fluid manner. Some actions, such as long-term tasks or ongoing effects, may carry over into the character's next turn (or longer). This process continues, turn after turn, until all the characters' actions are resolved and the scene is concluded.
 
-### Initiative
-
-This process determines who takes their turn first within a round. This ruleset uses `copy needed here`
+During encounters, there is no fixed period for a character's turn; instead, they occur at the moment, taking mere seconds to complete. In other scenes, however, a turn may take minutes, hours, days, or longer to finalize, depending on the nature of the activity and the gamemaster’s judgment.
 
 ## Actions
 
 Some character actions are routine and effortless, while others are contested or pose a more significant challenge; during such instances, a check is called to validate each action.
 
-### Checks
+### Action Checks
 
-For actions and reactions, a check is performed by rolling a d20 at or under a target number (TN), derived from the relevant attribute adjusted for the challenge level.
+All action checks are performed by rolling a d20 at or above a Target Number (TN). The higher the roll, the better the outcome. Rolling a 1 is always a failure, while a 20 is most often a success. Target numbers are derived based on the type of action taken.
 
-> Target Number (TN) = Relevant Attribute - Challenge Level
+* ***For Attack Actions.*** TN = 10 + Defense rating of the opponent.
+* ***For Defence Actions.*** TN = 10 + Attack rating of the opponent.
+* ***For Contested Actions.*** TN = 10 + Trait level of the opponent.
+* ***For Uncontested Actions.*** TN = 10 + Risk level set by the GM.
 
-### Challenge Level
+### Action Pools
 
-`copy needed here`
+To represent the unique strengths of each character class, characters are granted a pool of action dice to add to the appropriate checks based on their class and action taken.
 
-### Attributes
+* ***Grit Dice.*** Used by warriors to enhance combat actions.
+* ***Luck Dice.*** Used by rogues to boost daring and stealthy actions.
+* ***Mana Dice.*** Used by mages to power arcane actions and spells.
+* ***Hope Dice.*** Used by priests to amplify divine actions and prayers.
+* ***Glam Dice.*** Used by the fey to perform otherworldly actions.
+* ***Bane Dice*** Used by boss villains to perform heinous acts.
 
-`copy needed here`
+**Example**: A rogue attempts to stab a creature with a dagger with a Damage 2. The TN is 12 (10 + 2 Defense rating of the creature). The player rolls a d20 and adds 1 Luck Die. The dice tally to 15, meaning the difference (+3) increases the damage to 5 (damage 2 + 3).
 
-**_Strength_**. Used in melee combat to attack and block or resist effects that physically move or bind.
-Strength Skills: Climb, Force, Leap.
+01 
+02 +1 Hit Die
+03 +1 Action Die
+04 +1 Hit Die
+05 +1 Action Die
+06 +1 Hit Die
+07 +1 Action Die
+08 +1 Hit Die
+09 +1 Action Die
+10 
 
-**_Dexterity_**. Used in ranged combat to attack and evade effects that can be dodged or outmaneuvered. Dexterity Skills: Balance, Sneak, Tumble.
-
-**_Constitution_**. Used in melee combat to charge. Also used to resist fatigue, illnesses, toxins, and debilitating effects.
-Constitution Skills: Dash, March, Swim.
-
-**_Intelligence_**. Resist mental assaults and effects that alter the mind.
-Intelligence Skills: Learn, Reason, Recall.
-
-**_Wisdom_**. Resist illusions, subterfuge, and effects which alter the senses.
-Wisdom Skills: Heal, Notice, Ride.
-
-**_Charisma_**. Resist persuasion and effects that diminish self-control.
-Charisma Skills: Influence, Perform. Trick.
-
-
-### Reaction Check
-
-`copy needed here`
-
-
-
-
-
-
-
-
-
-
-The ***Target Number*** equals your character's attribute for the action, adjusted for the challenge rating. The check succeeds if the roll is less than or equal to the target number. The check fails if the roll exceeds the target number.
-
-The ***Challenge Rating*** modifies the target number according to the action type.
-
-Contested
-Uncontested
-
-### Trait Check
-
-An action check covers all actions, such as attacking, climbing, sneaking, and riding. The base target number equals your character's key ability for the trait. For some actions, alternate traits may be available. For example, an attempt at persuasion could use *Charm*, *Deceive*, or *Reason*, depending upon the method employed. Also, some traits could employ a different ability, such as Dexterity or Intelligence for *Perform*. In each instance, the gamemaster will mediate appropriately. Below are the common `traits` listed under their key ability. `Be aware each character class adds more traits to this list.`
-
-* ***Strength.*** Climb, Force, Jump.
-* ***Dexterity.*** Balance, Sneak, Tumble.
-* ***Constitution.*** March, Run, Swim.
-* ***Intelligence.*** Learn, Lore, Reason.
-* ***Wisdom.*** Heal, Notice, Ride.
-* ***Charisma.***  Charm, Deceive, Perform.
-
-#### Challenge Ratings
-
-There are three challenge ratings for action checks.
-
-* ***Controlled.*** You are in control, and the situation is favorable; as such, you have advantage.
-* ***Risky.*** You are taking a chance; the situation balances out, neither favorable nor unfavorable.
-* ***Desperate.*** You are not in control, and the situation is unfavorable; as such, you have disadvantage.
-
-### Attack Check
-
-An attack check covers all attack actions, such as melee, ranged, and spells. The base target number for an attack check equals the key ability minus the opponent's challenge rating (CR). A higher challenge rating lowers the target number, making the attack check more difficult. Be aware creatures don't make attack checks; a character must dodge their attacks by making an *evasion check*. `If no evasion check is made, an attack automatically hits.`
-
-### Evasion Check
-
-An evasion check is made when a character needs to evade a creature's attack or a special effect. The target number for an evasion check equals the key ability minus the challenge rating (CR) of the creature or effect. A higher challenge rating lowers the target number, making the evasion check more difficult.
-
-* ***Strength.*** Block attacks with shields or weapons and contend with forces that could move or bind.
-* ***Dexterity.*** Dodge, parry, or out-maneuver attacks and forces.
-* ***Constitution.*** Resist fatigue, toxins, and other forces that affect physical health.
-* ***Intelligence.*** Resist mental assaults and forces affecting the conscious, rational mind, and mental health.
-* ***Wisdom.*** Resist illusions and forces affecting the senses and how things are perceived.
-* ***Charisma.*** Resist persuasion, domination, and forces affecting the character's instincts and willpower.
-
-## Distances
-
-***Self.*** XX
-***Reach.*** You're within reach if you are a few steps away. Fighting occurs within reach (approx. 10').
-***Outreach.*** XX
-***Close.*** You're close if you are only a move action away. 
-***Near.*** XX
-***Distant.*** XX
-***Remote.*** XX
-
-## Initiative
-
-`copy needed here`
