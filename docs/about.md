@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 </div>
 
-### Another Sample Grid
+## Another Sample Grid
 
 <div class="grid cards" markdown>
 -   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
