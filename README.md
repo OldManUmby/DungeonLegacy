@@ -1,4 +1,5 @@
 ![Dungeon Legacy Logo](DLRPG.Logo.png)
+
 # Dungeon Legacy
 
 >The Dungeon Legacy RPG is currently in development. You can follow this project through the *[Roadmap](roadmap.md)* file.

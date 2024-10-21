@@ -42,9 +42,9 @@ To represent the unique strengths of each character class, characters are grante
 * ***Mana Dice.*** Used by mages to power arcane actions and spells.
 * ***Hope Dice.*** Used by priests to amplify divine actions and prayers.
 * ***Glam Dice.*** Used by the fey to perform otherworldly actions.
-* ***Bane Dice*** Used by boss villains to perform heinous acts.
+* ***Bane Dice.*** Used by boss villains to counter other action dice.
 
-**Example**: A rogue attempts to stab a creature with a dagger with a Damage 2. The TN is 12 (10 + 2 Defense rating of the creature). The player rolls a d20 and adds 1 Luck Die. The dice tally to 15, meaning the difference (+3) increases the damage to 5 (damage 2 + 3).
+**Example**: A rogue attempts to stab a creature with a dagger with a Damage 2. The target number is 12 (10 + 2 Defense rating of the creature). The player rolls a d20 and adds 1 Luck Die. The dice tally to 15, meaning the difference (+3) increases the damage to 5 (damage 2 + 3).
 
 01 
 02 +1 Hit Die
